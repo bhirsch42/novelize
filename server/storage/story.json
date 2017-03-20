@@ -1,0 +1,106 @@
+{
+	"entries": [
+		{
+			"what": "The Max Planck Society announces that they've created the world's first Strong AI, which they named MASLO."
+		},
+		{
+			"what": "Due to the existential threat that the technology poses, the MPS is not making MASLO available to the public."
+		},
+		{
+			"what": "The public (and the reader) is cynical about MPS's AI.",
+			"details" : "The public wants proof that MPS invented an AI. Laymen are arguing online that they should have to show their AI passing the Turing Test on TV."
+		},
+		{
+			"what": "The MPS convinces the public (and the reader) that their AI is real.",
+			"how": [
+				{
+					"what": "The MPS publishes the cure for cancer.",
+					"details": "The paper describes the medication and how to mass-manufacture it. The medical technology involved is not an incremental step forward in science. It's an enormous leap, many years ahead of any other publications."
+				},
+				{
+					"what": "The MPS continues to publish miracle papers."
+				},
+				{
+					"what": "It begins to become a form of heresy to doubt the MPS."
+				}
+			]
+		},
+		{
+			"what": "MPS announces that MASLO has declared that the single most important thing for humans to do is establish a presence off of the planet.",
+			"details": "They publish a comprehensive plan. Asteroid mining makes the whole affair commercially viable. Their rocket designs are ready to go; they need only be manufactured. The plan is to build a ring-shaped space station, like the one at the end of Interstellar, and establish a self-sustaining population onboard."
+		},
+		{
+			"what": "Millions of people move from Earth to a spaceship."
+		},
+		{
+			"what": "People find out that MASLO never existed.",
+			"how": [
+				{
+					"what": "A scientist from the MPS announces publicly, and against the MPS's will, that MASLO never existed.",
+					"details": "MASLO was a trick by the scientists of Earth to convince people to listen to them."
+				},
+				{
+					"what": "The dissenting scientist dumps decades of research papers into the public domain, including years and years of incremental research leading to the cure for cancer, all with the names of human scientists along the top. They're all under the umbrella of \"Project MASLO\"."
+				}
+			]
+		},
+		{
+			"what": "Some people accept the truth that MASLO never existed. Others refuse to accept it, and continue to believe in MASLO."
+		},
+		{
+			"what": "Those who accept that MASLO was a lie are invigorated by the idea that humans are capable of these miracles on their own."
+		},
+		{
+			"what": "Those who believe MASLO never existed build a new ship and leave.",
+			"how": [
+				{
+					"what": "Those who believe in MASLO are scared that the others, in their hubris, will try to do things that humans are incapable of and kill everyone."
+				},
+				{
+					"what": "Tensions mount between the communities of people who believe in MASLO, and the communities of people who believe the truth."
+				},
+				{
+					"what": "Those who believe the truth build a second spaceship and leave. Those who believe in MASLO stay on the first ship, certain that those who leave are destined to die."
+				}
+			]
+		},
+		{
+			"what": "Those who stay on the first ship die as the ship falls apart around them. Those who left live long and prosper.",
+			"details": "When told out of order, the story could have passages about life on each ship, without making it clear that the passages take place on different ships. It could create a cool dissonance if readers get back-to-back chapers about life being great and terrible on a ship that's described similarly."
+		},
+		{
+			"what": "Some people escape from the dumb ship before it explodes or whatever to go to the smart ship.",
+			"how": [
+				{
+					"what": "People on the dumb ship destroy any evidence against the existence of MASLO."
+				},
+				{
+					"what": "People on the smart ship find out that the dumb-ship is destroying science."
+				},
+				{
+					"what": "The smart ship continuously beams data to the dumb ship, in the hopes that people they who look for it will be able to find it."
+				},
+				{
+					"what": "On the dumb ship, a pseudo-cult of actual scientists practice science in secret."
+				},
+				{
+					"what": "The science cult discovers the data stream that the smart ship is constantly sending them, and learns it."
+				},
+				{
+					"what": "The science cult builds a small transport ship using the data from the stream, and escapes as the dumb ship explodes."
+				},
+				{
+					"what": "The science cult flies to the smart ship and lives happily ever after, except their ignorant families died.",
+					"how": [
+						{
+							"what": "Also, this happens."
+						}
+					]
+				}
+			]
+		}
+	],
+	"characters": [
+
+	]
+}
